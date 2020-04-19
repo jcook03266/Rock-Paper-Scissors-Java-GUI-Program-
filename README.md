@@ -8,5 +8,8 @@ with the logic behind the game only taking up a small fraction of the whitespace
 This program is a great way to teach the basics of front end UI design in the realm of Java 
 and any other comparable P.L. 
 
+In this rep. you'll find screenshots of the program running at its various stages, as well as a picture of the original
+UI layout design that mapped out the final product.
+
 Feel free to fork or reference this project in your own future designs,
 cheers!
